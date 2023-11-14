@@ -1,0 +1,1 @@
+# Prediction-of-Average-Land-Temperature-using-Bi-directional-LSTM
